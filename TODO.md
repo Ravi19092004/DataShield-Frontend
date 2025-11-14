@@ -1,0 +1,6 @@
+- [x] Remove lovable-tagger from package.json devDependencies
+- [x] Remove componentTagger import and usage from vite.config.ts
+- [x] Update index.html to remove Lovable meta tags (og:image, twitter:site, twitter:image)
+- [x] Update README.md to remove Lovable-specific content and make it generic
+- [x] Install dependencies with npm install
+- [x] Run the project with npm run dev
