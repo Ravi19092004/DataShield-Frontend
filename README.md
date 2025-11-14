@@ -97,6 +97,17 @@ The application will be available at `http://localhost:8080`.
 - `npm run lint` - Run ESLint for code quality
 - `npm run preview` - Preview the production build locally
 
+## 📸 Screenshots
+
+### Landing Page
+![DataShield Home Page](assets/datashield-home-page.png)
+
+### Login Page
+![Login Page](assets/login.png)
+
+### Register Page
+![Register Page](assets/register.png)
+
 ## 🎯 Usage
 
 1. **Landing Page**: Explore features and get started
