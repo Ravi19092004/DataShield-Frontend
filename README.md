@@ -27,7 +27,7 @@ git clone <YOUR_GIT_URL>
 
 2. Navigate to the project directory:
 ```sh
-cd <YOUR_PROJECT_NAME>
+cd DataShield-Frontend
 ```
 
 3. Install the necessary dependencies:
@@ -49,3 +49,6 @@ The application will be available at `http://localhost:8080`.
 - `npm run build:dev` - Build the project in development mode
 - `npm run lint` - Run ESLint
 - `npm run preview` - Preview the production build
+
+# DataShield-Frontend
+Frontend of DataShield.AI — a phishing detection cybersecurity platform
